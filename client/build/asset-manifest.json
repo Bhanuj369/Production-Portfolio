@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c94d2542.css",
+    "main.js": "/static/js/main.680c0be8.js",
+    "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
+    "static/media/profilepic.jpeg": "/static/media/profilepic.a732906d8b11c766c16a.jpeg",
+    "static/media/SaiBhanujTatineni_Resume.pdf": "/static/media/SaiBhanujTatineni_Resume.63856ea2e3c8074aca4c.pdf",
+    "static/media/mern-stack.png": "/static/media/mern-stack.fe81199fde0a0b2b36e2.png",
+    "static/media/mern-project.png": "/static/media/mern-project.9938c473428afe14b1eb.png",
+    "index.html": "/index.html",
+    "main.c94d2542.css.map": "/static/css/main.c94d2542.css.map",
+    "main.680c0be8.js.map": "/static/js/main.680c0be8.js.map",
+    "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c94d2542.css",
+    "static/js/main.680c0be8.js"
+  ]
+}
